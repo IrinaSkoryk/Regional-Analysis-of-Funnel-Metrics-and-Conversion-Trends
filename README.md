@@ -33,7 +33,7 @@ If you need to work with the project files locally, follow these steps:
 - Connect to the locally stored Excel file containing the dataset.
 - Refresh the data as needed.
 3. **Documentation:**
-  For detailed technical information—including methodology, data preprocessing steps, conversion rate calculations, and visualization settings—please refer to the TECHNICAL_DETAILS.md file.
+  For detailed technical information—including methodology, data preprocessing steps, conversion rate calculations, and visualization settings—please refer to the Project Documentation Regional Analysis of Funnel Metrics and Conversion Trends.pdf file (Download this file to make links active).
 
 ## Versioning
 - Version 1.0 (2025-01-28): Initial release with key metrics, filters, and visualizations.
